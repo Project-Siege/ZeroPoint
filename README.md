@@ -1,1 +1,1 @@
-f2 is the defualt keybind will add options later to make your own shortcuts. Right now the window has to be active for the f2 shortcut to open and close the settings gui. So if you experiance f2 not doing anything just click the app icon on your taskbar and try again. 
+Crosshair application with the ability to alter size color position and import your own images to use as crosshair. Has the ability to hide from capture like obs screen share etc if needed. 
